@@ -17,3 +17,9 @@
 4. add openai, streamlit, python-dotenv to requirements.txt file
 5. install dependencies by referring to requirements.txt file
 > pip install -r requirements.txt
+6. create a .env file
+7. ensure .env file is grayed out (git ignored) - if not edit .gitignore to include .env
+8. add secrets to .env
+> OPENAI_API_KEY = "<insert>"
+
+#
