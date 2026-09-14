@@ -22,4 +22,12 @@
 8. add secrets to .env
 > OPENAI_API_KEY = "<insert>"
 
-#
+## REMEMBER TO RESYNC WITH GITHUB REPOSITORY
+
+## CREATE SOME CODE
+1. create a python file - call it whatever you'd like - home.py by convention
+2. run streamlit, referring to the python file I created
+> streamlit run home.py
+
+## CREATE CODE IN YOUR PYTHON FILE
+1. import
